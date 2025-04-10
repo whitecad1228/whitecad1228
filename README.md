@@ -6,9 +6,8 @@
   - A 2d unity game, combing the cozy RPG elements of stardew valley with magical elements like spirits and spells. 
 - <a href="https://github.com/whitecad1228/Quest-RPG-LLM"><b>LLM Quest Generator</b></a>
   - A LLM that generates quests. This use a hugging face dataset, "[npc_dialogue_rpg_quests](https://huggingface.co/datasets/dprashar/npc_dialogue_rpg_quests)" and the pre-trained gpt-2 model to produce randomized quests.
-  ![Screenshot 2025-04-09 195404](https://github.com/user-attachments/assets/f954e51c-a650-4071-9058-a28b83a6cdb7)
   ![Screenshot 2025-04-09 195348](https://github.com/user-attachments/assets/ca818763-a8fd-4eb9-b072-d7e3fa246d05)
-
+  ![Screenshot 2025-04-09 195404](https://github.com/user-attachments/assets/f954e51c-a650-4071-9058-a28b83a6cdb7)
 - <a href=""><b>Practicum Project: ML Breakout</b></a>
   - A recreation of Atari's breakout with the addition of a Nueral Network agent via unity's mlagents package, to allow Player vs AI gameplay.
 - <a href="https://github.com/whitecad1228/361Final-Pokemon-RougeLike"><b>Text Based Pokemon rougeLike</b></a>
