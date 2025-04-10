@@ -6,6 +6,9 @@
   - A 2d unity game, combing the cozy RPG elements of stardew valley with magical elements like spirits and spells. 
 - <a href="https://github.com/whitecad1228/Quest-RPG-LLM"><b>LLM Quest Generator</b></a>
   - A LLM that generates quests. This use a hugging face dataset, "[npc_dialogue_rpg_quests](https://huggingface.co/datasets/dprashar/npc_dialogue_rpg_quests)" and the pre-trained gpt-2 model to produce randomized quests.
+  ![Screenshot 2025-04-09 195404](https://github.com/user-attachments/assets/f954e51c-a650-4071-9058-a28b83a6cdb7)
+  ![Screenshot 2025-04-09 195348](https://github.com/user-attachments/assets/ca818763-a8fd-4eb9-b072-d7e3fa246d05)
+
 - <a href=""><b>Practicum Project: ML Breakout</b></a>
   - A recreation of Atari's breakout with the addition of a Nueral Network agent via unity's mlagents package, to allow Player vs AI gameplay.
 - <a href="https://github.com/whitecad1228/361Final-Pokemon-RougeLike"><b>Text Based Pokemon rougeLike</b></a>
@@ -14,7 +17,6 @@
   - A terminal based othello game using client and server side interactions using python's sockets.
 - <a href="https://github.com/whitecad1228/Othello-final"><b>Text based othello</b></a>
   - A terminal based othello game.
--
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
@@ -38,6 +40,9 @@
 
 <!--
 **whitecad1228/whitecad1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Screenshot 2025-04-09 195404](https://github.com/user-attachments/assets/3c9fb45f-33e3-4993-be2e-00a31f61d771)
+![Screenshot 2025-04-09 195348](https://github.com/user-attachments/assets/9b5fd19e-a306-4066-8587-ad7178925c3c)
+![Screenshot 2025-04-09 195348](https://github.com/user-attachments/assets/35ffc427-6eaf-4623-a6ea-d50cd5db3497)
 
 Here are some ideas to get you started:
 
